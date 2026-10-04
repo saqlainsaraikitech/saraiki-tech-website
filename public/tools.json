@@ -1,0 +1,294 @@
+{
+  "_note": "TOOLS LIST — is file ko edit karke aap khud tools add/edit kar sakte ho. Naya tool: neeche 'tools' mein ek naya { ... } block add karo. Fields: name (naam), base (aapki cost PKR — is par 15% khud lag jayega), stock (adad ya null), cat (AI, Video, Design, VPN, Productivity, Hosting, Streaming, Course, Accounts mein se ek), override (agar fixed selling price chahiye to ye likho, warna hata do), deal (true = Limited Deal badge + purani price), wasBase (deal wali purani cost). Edit karke is file ko Hostinger par index.html ke SAATH dobara upload karo — bas!",
+  "tools": [
+    {
+      "base": 739,
+      "cat": "Video",
+      "name": "Capcut Pro 1 Month",
+      "stock": 217,
+      "details": {
+        "duration": "30 Din",
+        "warranty": "28 Din",
+        "delivery": "10 minute ke andar",
+        "description": "CapCut Pro Team — 1 mahine ka private account.",
+        "features": [
+          "Tayyar private account",
+          "Mukammal Pro Team access",
+          "Payment ke foran baad instant delivery"
+        ],
+        "warrantyRules": [
+          "Warranty sirf account ke non-Pro hone par",
+          "Max-attempts issue par warranty nahi"
+        ],
+        "howTo": [
+          "Aap ko milega: Mail | Password",
+          "CapCut par bilkul copy karke login karein",
+          "Max 2 devices par login (1 mobile + 1 PC)",
+          "Bar bar logout-login na karein"
+        ]
+      }
+    },
+    {
+      "base": 240,
+      "cat": "VPN",
+      "name": "HMA Vpn Monthly",
+      "stock": 116,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 145,
+      "cat": "Video",
+      "name": "Capcut Pro 7 Days",
+      "stock": 109,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 3799,
+      "cat": "Video",
+      "name": "Capcut Pro 6 Months",
+      "stock": 43,
+      "details": {
+        "duration": "6 Mahine",
+        "warranty": "6 Mahine",
+        "delivery": "10 minute ke andar",
+        "description": "CapCut Pro Team — 6 mahine, client mail par. Tayyar private account.",
+        "features": [
+          "Tayyar private account",
+          "Login ke baad mail apne naam par change karein",
+          "Payment ke foran baad instant delivery"
+        ],
+        "warrantyRules": [
+          "Warranty sirf account ke non-Pro hone par",
+          "Max-attempts issue par warranty nahi"
+        ],
+        "howTo": [
+          "Aap ko milega: Mail | Password | UID",
+          "Mail aur password se CapCut par login karein",
+          "Login ke baad email apne naam par change kar lein",
+          "Email change mein masla ho to admin se rabta karein",
+          "UID kabhi change na karein",
+          "Max 2 devices par login, bar bar logout-login nahi"
+        ]
+      }
+    },
+    {
+      "base": 2399,
+      "cat": "Design",
+      "name": "Canva Admin Panel 3Year (2MW)",
+      "stock": 9,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 2100,
+      "cat": "Design",
+      "name": "Figma Professional Edu 2 Year",
+      "stock": 4,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 3299,
+      "cat": "AI",
+      "name": "Lovable Lite 12 Months",
+      "stock": null,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 549,
+      "cat": "Productivity",
+      "name": "I Love Pdf Yearly",
+      "stock": 1000,
+      "details": {
+        "duration": "1 Saal",
+        "warranty": "No warranty (accounts aam tor par stable hain)",
+        "delivery": "10 minute ke andar",
+        "description": "iLovePDF Premium — 1 saal ka tayyar account.",
+        "features": [
+          "PDF merge, split aur compress",
+          "Word, PowerPoint, Excel se PDF aur PDF se wapas",
+          "OCR aur scanned-PDF conversion",
+          "PDF edit, sign, protect aur unlock",
+          "Watermarks, page numbers, crop, rotate, reorder",
+          "PDF repair, PDF/A, Web to PDF",
+          "AI Summarizer aur Translator",
+          "Digital signatures, advanced OCR, workflow automation",
+          "Web, mobile aur desktop access",
+          "No ads, priority support",
+          "Unlimited document processing"
+        ],
+        "warrantyRules": [],
+        "howTo": [
+          "Aap ko milega: Email + Password",
+          "iLovePDF app, software ya website par login karein"
+        ]
+      }
+    },
+    {
+      "base": 579,
+      "cat": "Productivity",
+      "name": "Microsoft 365 Plus 1 Year",
+      "stock": 999,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 250,
+      "cat": "Design",
+      "name": "Canva Edu 3 Years Invite On Client Mail",
+      "stock": 70,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 2900,
+      "cat": "AI",
+      "name": "ElevenLabs 300k Credits No Expiry",
+      "stock": 2,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 790,
+      "cat": "AI",
+      "name": "Muse Ai 1B Credits",
+      "stock": 1,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 419,
+      "cat": "Streaming",
+      "name": "Netflix 4k 1 Month Profile",
+      "stock": 4,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 1480,
+      "cat": "VPN",
+      "name": "Nord Vpn 3 Months On Client Mail",
+      "stock": 1,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 14029,
+      "cat": "Course",
+      "name": "Rare Expensive Vip Methods Channel Lifetime Entry",
+      "stock": 2,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 649,
+      "cat": "Streaming",
+      "name": "YouTube Premium 2 Months On Your Mail",
+      "stock": 1,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 500,
+      "cat": "Accounts",
+      "name": "TikTok USA / UK Account — Fresh on Client Gmail",
+      "stock": null,
+      "details": {
+        "delivery": "10 minute ke andar"
+      }
+    },
+    {
+      "base": 449,
+      "cat": "AI",
+      "deal": true,
+      "name": "Gemini Pro 18 Months On Your Mail",
+      "stock": 1156,
+      "wasBase": 1399,
+      "savePct": 68,
+      "dealEndsAt": "2026-09-27T17:11:48.823295+00:00",
+      "details": {
+        "bulk": [
+          "2+ → 12% off",
+          "5+ → 20% off",
+          "10+ → 35% off"
+        ],
+        "duration": "18 Mahine",
+        "warranty": "Sirf activation",
+        "delivery": "10 minute ke andar",
+        "description": "Gemini Pro — 18 mahine activation aap ki apni Gmail par. No card, no verification.",
+        "features": [
+          "5 TB Google Drive storage",
+          "1000 AI credits har mahine",
+          "Gemini Pro + Deep Research",
+          "Nano Banana Pro access",
+          "Notebook LM access",
+          "Family invite se 5 logon ke saath share karein"
+        ],
+        "warrantyRules": [
+          "Warranty sirf subscription activation tak",
+          "Subscription active hone ke baad no warranty",
+          "Hum kabhi aap ki Gmail ya password nahi maangte"
+        ],
+        "howTo": [
+          "Payment ke baad official activation link automatically milega",
+          "Link kholein, phir Activate dabayein — plan aap ki apni Gmail par lag jayega",
+          "Link milne ke foran baad use kar lein"
+        ]
+      }
+    },
+    {
+      "base": 444,
+      "cat": "Course",
+      "deal": true,
+      "name": "Super Duolingo 12 Month",
+      "stock": 227,
+      "wasBase": 1550,
+      "savePct": 71,
+      "dealEndsAt": "2026-09-28T16:47:48.823295+00:00",
+      "details": {
+        "bulk": [
+          "2+ → 10% off",
+          "5+ → 15% off",
+          "10+ → 25% off"
+        ],
+        "duration": "12 Mahine",
+        "warranty": "Sirf activation",
+        "delivery": "10 minute ke andar",
+        "description": "Super Duolingo — 12 mahine activation aap ke apne account par.",
+        "features": [
+          "Activation link 1 saal ke liye valid",
+          "Apne Duolingo account par direct activate",
+          "Credit ya debit card ki zaroorat nahi",
+          "One-click activation",
+          "Aksar accounts par 100% functional"
+        ],
+        "warrantyRules": [
+          "Warranty kamyab activation tak valid",
+          "Delivery ke foran baad activation link use kar lein"
+        ],
+        "howTo": [
+          "Purchase ke baad milne wala activation link kholein",
+          "Us Duolingo account mein sign in karein jise upgrade karna hai",
+          "Activate dabayein aur process mukammal karein",
+          "Agar activation fail ho to Indian-IP account se retry karein"
+        ]
+      }
+    }
+  ]
+}

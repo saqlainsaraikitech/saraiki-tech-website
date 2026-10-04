@@ -1,0 +1,612 @@
+{
+  "courses": [
+    {
+      "color": "#FF0000",
+      "discountFee": 2500,
+      "duration": "1.5 Mah",
+      "faqs": [
+        {
+          "a": "Nahi. Ye mukammal faceless automation system hai — AI voice, visuals aur video sab handle karta hai.",
+          "q": "Kya mujhe apna chehra dikhana parega?"
+        },
+        {
+          "a": "Roz ke 1–2 focused ghante kaafi hain 1.5 mah ke roadmap ke saath chalne ke liye.",
+          "q": "Roz kitna time lagega?"
+        },
+        {
+          "a": "Hum free aur paid dono tools cover karte hain — aap zero cost se start kar sakte hain.",
+          "q": "Kya AI tools free hain?"
+        },
+        {
+          "a": "Aap ko exact requirements aur apply karne ka tareeqa sikhaya jayega. Approval YouTube karta hai, lekin aap har requirement poori kar ke jayenge.",
+          "q": "Kya waqai monetize ho jayega?"
+        }
+      ],
+      "fee": 6000,
+      "icon": "Youtube",
+      "name": "YouTube Automation Crash Course",
+      "outcomes": [
+        "Profitable niche choose karna — kai proven tareeqon se",
+        "Aisi scripts likhna jin par click aur watch time aaye",
+        "AI voiceovers banana — free, paid aur voice cloning",
+        "Har baar consistent AI visuals aur characters banana",
+        "Veo 3 aur Sora se lambi videos + free tools",
+        "Click jeetne wale thumbnails design karna",
+        "Channel SEO aur sahi tareeqe se video upload",
+        "Confidence ke saath monetization apply karna"
+      ],
+      "parts": [
+        {
+          "modules": [
+            {
+              "d": "Multiple methods to find a profitable, low-competition niche.",
+              "t": "Niche Selection"
+            },
+            {
+              "d": "The formats that go viral — and how to copy the structure, not the content.",
+              "t": "Game of Viral Formats"
+            },
+            {
+              "d": "Rewrite method + writing new fresh scripts from scratch.",
+              "t": "Script Writing"
+            },
+            {
+              "d": "AI voiceover free & paid tools, plus voice cloning.",
+              "t": "Voice Over"
+            },
+            {
+              "d": "Create same visuals every time, consistent characters, free & paid tools.",
+              "t": "Image Generation"
+            },
+            {
+              "d": "Veo 3 for long videos (AI films, cartoons, storytelling), Sora AI complete (short + long), and free tools.",
+              "t": "Video Generation"
+            },
+            {
+              "d": "AI thumbnails + thumbnail manipulation techniques.",
+              "t": "Thumbnails"
+            },
+            {
+              "d": "VPN, RDP and data IP — what actually matters and why.",
+              "t": "Role of Proxy / IP"
+            },
+            {
+              "d": "Full editing workflow for retention and watch time.",
+              "t": "Editing on CapCut"
+            }
+          ],
+          "title": "Part 1 — Content Production"
+        },
+        {
+          "modules": [
+            {
+              "d": "Complete channel settings done right from day one.",
+              "t": "Channel Creation"
+            },
+            {
+              "d": "Channel-level SEO most creators ignore.",
+              "t": "Advanced Channel SEO"
+            },
+            {
+              "d": "Basic, advanced and multiple-method keyword research.",
+              "t": "Keyword Research"
+            },
+            {
+              "d": "Complete video SEO and the correct upload process.",
+              "t": "Video Uploading + SEO"
+            },
+            {
+              "d": "How to manage and grow your channel systematically.",
+              "t": "Channel Management"
+            },
+            {
+              "d": "How to apply for monetization and get approved.",
+              "t": "Monetization Application"
+            }
+          ],
+          "title": "Part 2 — Channel Growth & Monetization"
+        }
+      ],
+      "short": "Faceless YouTube ka mukammal system — niche selection aur viral formats se lekar AI video production, channel SEO aur monetization approval tak.",
+      "slug": "youtube-automation",
+      "tagline": "1.5 Mah ka Ultimate YouTube Automation Crash Course",
+      "image": "/images/course-youtube.png"
+    },
+    {
+      "color": "#1877F2",
+      "discountFee": 2500,
+      "duration": "3–4 Mah",
+      "faqs": [
+        {
+          "a": "Nahi. Sab kuch faceless hai — AI content, smart posting aur sahi setups.",
+          "q": "Kya chehra dikhana parega?"
+        },
+        {
+          "a": "Roadmap ke saath roz ke 1–2 focused ghante kaafi hain.",
+          "q": "Roz kitna time lagega?"
+        },
+        {
+          "a": "Haan — course mein Pakistan local setups aur USA/UK premium setups dono cover hain, aur samjhaya gaya hai ke har setup se earning kaise hoti hai.",
+          "q": "Kya Pakistan se Facebook monetization milti hai?"
+        },
+        {
+          "a": "ID recovery course ka poora module hai — step by step pata chalega ke kya karna hai.",
+          "q": "Agar meri ID disable ho jaye to?"
+        },
+        {
+          "a": "Dono. Free se start karo, sirf un tools par kharch karo jo khud paisay wapas karein.",
+          "q": "Free tools ya paid?"
+        }
+      ],
+      "fee": 6000,
+      "icon": "Facebook",
+      "name": "Facebook Automation Program",
+      "outcomes": [
+        "Facebook monetization aur uski criteria ko bilkul samajhna",
+        "Pakistan-local profiles, pages aur Business Manager safely setup karna",
+        "Sahi IPs aur verified locations ke saath USA/UK premium setups banana",
+        "Master prompting se original, copyright-safe AI content banana",
+        "3–4 mah ka clear uploading aur growth roadmap follow karna",
+        "Groups, sharing systems aur multiple pages se scale karna",
+        "Premium audience target karna aur low-RPM countries block karna",
+        "Payouts complete karna aur earning receive karna — 3 mah WhatsApp support ke saath"
+      ],
+      "parts": [
+        {
+          "modules": [
+            {
+              "d": "Reach, monetization options and low competition — why Facebook wins for beginners.",
+              "t": "Why FB is the Best Platform to Start"
+            },
+            {
+              "d": "How Facebook pays creators: in-stream ads, bonuses and more.",
+              "t": "What is FB Monetization"
+            },
+            {
+              "d": "The exact requirements your profile or page must meet.",
+              "t": "Monetization Criteria"
+            },
+            {
+              "d": "Which one to choose and why it matters for your strategy.",
+              "t": "Profile vs Page Monetization"
+            },
+            {
+              "d": "Free and paid methods to hit the requirements quickly.",
+              "t": "Complete Criteria Fast"
+            },
+            {
+              "d": "RPM differences and why audience country changes your income.",
+              "t": "Pakistani vs Premium Audience Earning"
+            }
+          ],
+          "title": "Phase 1 — Foundation: How Facebook Pays"
+        },
+        {
+          "modules": [
+            {
+              "d": "Configure your phone so your accounts stay safe from day one.",
+              "t": "Mobile Settings, Done Safely"
+            },
+            {
+              "d": "Step-by-step profile creation the right way.",
+              "t": "Create Multiple Profiles"
+            },
+            {
+              "d": "Turn your profiles into working pages.",
+              "t": "Create Pages on Profiles"
+            },
+            {
+              "d": "An easy system to handle all your IDs and pages in one place.",
+              "t": "Manage Multiple IDs & Pages"
+            },
+            {
+              "d": "Understand Business Manager before you touch it.",
+              "t": "What is Business Manager"
+            },
+            {
+              "d": "Create BM and manage IDs, pages and admins properly.",
+              "t": "Business Manager Setup"
+            }
+          ],
+          "title": "Phase 2 — Pakistan Local Setup"
+        },
+        {
+          "modules": [
+            {
+              "d": "Prepare your mobile and devices for premium-country accounts.",
+              "t": "Complete Mobile & Device Settings"
+            },
+            {
+              "d": "The exact app stack you need for a USA setup.",
+              "t": "5 Essential Apps for USA Setup"
+            },
+            {
+              "d": "How to appear in the right country — safely.",
+              "t": "IP & VPN Usage"
+            },
+            {
+              "d": "Step-by-step premium ID creation.",
+              "t": "Create USA IDs"
+            },
+            {
+              "d": "Verify your IDs show the correct country.",
+              "t": "Confirm ID Location"
+            },
+            {
+              "d": "Create pages on USA IDs with proper settings.",
+              "t": "Pages with Proper Settings"
+            },
+            {
+              "d": "A full audit of your system before you start posting.",
+              "t": "Check the Complete System"
+            },
+            {
+              "d": "What to do when an ID gets disabled.",
+              "t": "Recover Disabled IDs"
+            }
+          ],
+          "title": "Phase 3 — USA / UK Premium Setup"
+        },
+        {
+          "modules": [
+            {
+              "d": "Your posting system for the full 3–4 month journey.",
+              "t": "Start Uploading Content"
+            },
+            {
+              "d": "How to spot winning content and adapt it.",
+              "t": "Find Viral AI Content"
+            },
+            {
+              "d": "Prompts that produce original, high-quality AI content.",
+              "t": "Content Creation & Master Prompting"
+            },
+            {
+              "d": "What copyright really means for your pages — the complete lecture.",
+              "t": "Copyright: Complete Lecture"
+            },
+            {
+              "d": "Make content that is yours, safe and monetizable.",
+              "t": "Copyright-Free Original AI Content"
+            },
+            {
+              "d": "What to spend on and what to skip as you grow.",
+              "t": "Investment & Tools"
+            }
+          ],
+          "title": "Phase 4 — 3–4 Month Content Roadmap"
+        },
+        {
+          "modules": [
+            {
+              "d": "Safe methods to grow page followers fast.",
+              "t": "Paid Followers for Pages"
+            },
+            {
+              "d": "How verification works and when to get it.",
+              "t": "Page Verification"
+            },
+            {
+              "d": "Multiply your reach with a proper sharing system.",
+              "t": "Sharing Setup for Pages"
+            },
+            {
+              "d": "Build groups that feed growth back to your pages.",
+              "t": "FB Groups: Create & Scale"
+            },
+            {
+              "d": "The daily workflow for running many pages at once.",
+              "t": "Managing Multiple Pages"
+            },
+            {
+              "d": "Target premium audiences and stop wasting reach.",
+              "t": "Block Low-RPM Countries"
+            },
+            {
+              "d": "Step-by-step recovery when an ID gets suspended.",
+              "t": "Recover Suspended IDs"
+            },
+            {
+              "d": "Set up payouts and receive your earnings.",
+              "t": "FB Payout, Complete"
+            },
+            {
+              "d": "Direct help on WhatsApp whenever you get stuck.",
+              "t": "3-Month WhatsApp Support"
+            }
+          ],
+          "title": "Phase 5 — Scale, Payout & Support"
+        }
+      ],
+      "short": "Facebook automation ka mukammal program — Pakistan local setups, USA/UK premium setups, Business Manager, copyright-safe AI content, aur payouts tak 3–4 mah ka roadmap.",
+      "slug": "facebook-automation",
+      "tagline": "3–4 Mah ka Ultimate Facebook Automation Program",
+      "image": "/images/course-facebook.png"
+    },
+    {
+      "color": "#111111",
+      "discountFee": 2000,
+      "duration": "1 Mah",
+      "faqs": [
+        {
+          "a": "Nahi — ye poora course faceless automation ke gird bana hai.",
+          "q": "Kya chehra dikhana parega?"
+        },
+        {
+          "a": "Roz 1–2 ghante. TikTok lambi timing se zyada consistency ko reward karta hai.",
+          "q": "Roz kitna time?"
+        },
+        {
+          "a": "Hum har monetization path aur uski requirements samjhate hain — aap woh rasta choose karein jo aap ke liye kaam kare.",
+          "q": "Kya Pakistan se earn kar sakta hoon?"
+        },
+        {
+          "a": "Nahi. Course aisa design hai ke mukammal free tools se kaam ho jata hai.",
+          "q": "Kya paid tools chahiye honge?"
+        }
+      ],
+      "fee": 5000,
+      "icon": "Music2",
+      "name": "TikTok Automation Crash Course",
+      "outcomes": [
+        "TikTok accounts banana aur verify karna — UK accounts samait",
+        "VPNs, proxies, MoreLogin aur RDP pro ki tarah setup karna",
+        "Endless content ideas dhoondhna aur unhein videos mein badalna",
+        "Viral niches mein AI content master karna — horror, cartoons, kitchens, ASMR aur bohat kuch",
+        "Viral formats recreate karna — cat clips se tiny chef videos tak",
+        "Accounts warm karna aur perfect titles, tags aur timing se upload karna",
+        "Monetization ke liye identity aur tax verification complete karna",
+        "Appeal process se frozen accounts recover karna"
+      ],
+      "parts": [
+        {
+          "modules": [
+            {
+              "d": "The full TikTok roadmap — how the dollar-earning system works, end to end.",
+              "t": "Complete Guide: How to Earn Dollars from TikTok"
+            },
+            {
+              "d": "The exact starting point — what to do first and in what order.",
+              "t": "Where to Start Your TikTok Work"
+            }
+          ],
+          "title": "Introduction"
+        },
+        {
+          "modules": [
+            {
+              "d": "",
+              "t": "Account Creation to Identity Verification — Complete Guide"
+            },
+            {
+              "d": "",
+              "t": "How to Warm Up Your TikTok Account"
+            },
+            {
+              "d": "The day-to-day working method on TikTok.",
+              "t": "How to Work on TikTok"
+            },
+            {
+              "d": "",
+              "t": "How to Create a UK Account with a UK SIM"
+            }
+          ],
+          "title": "Account Setup & Verification"
+        },
+        {
+          "modules": [
+            {
+              "d": "",
+              "t": "TikTok Work: With VPN or Without VPN?"
+            },
+            {
+              "d": "",
+              "t": "MoreLogin and Mobile Setup"
+            },
+            {
+              "d": "",
+              "t": "How to Buy and Set Up IPRoyal Proxy"
+            },
+            {
+              "d": "",
+              "t": "How to Create a TikTok Account Using MoreLogin"
+            },
+            {
+              "d": "",
+              "t": "TikTok Work in RDP"
+            }
+          ],
+          "title": "Tools & Advanced Setup"
+        },
+        {
+          "modules": [
+            {
+              "d": "",
+              "t": "How to Find Content for TikTok"
+            },
+            {
+              "d": "The method to turn 800 content ideas into endless videos.",
+              "t": "Converting 800 Content Ideas into Multiple Videos"
+            }
+          ],
+          "title": "Content Finding and Selection"
+        },
+        {
+          "modules": [
+            {
+              "d": "",
+              "t": "Content Creation 1 — Original Content Overview & Tools"
+            },
+            {
+              "d": "",
+              "t": "Content Creation 2 — Dragon Horror Rider Niche"
+            },
+            {
+              "d": "",
+              "t": "Content Creation 3 — POV Historical Niche"
+            },
+            {
+              "d": "",
+              "t": "Content Creation 4 — Mechanical Toys"
+            },
+            {
+              "d": "",
+              "t": "Content Creation 5 — Viral Cartoon Niche"
+            },
+            {
+              "d": "",
+              "t": "Content Creation 6 — Baby Style Videos"
+            },
+            {
+              "d": "",
+              "t": "Content Creation 7 — Kids Cartoon Videos"
+            },
+            {
+              "d": "",
+              "t": "Content Creation 8 — AI Horror Video Step by Step"
+            },
+            {
+              "d": "",
+              "t": "Content Creation 9 — Bird Nest Videos"
+            },
+            {
+              "d": "",
+              "t": "Content Creation 10 — AI Long Videos (Part 1)"
+            },
+            {
+              "d": "",
+              "t": "Content Creation 10 — AI Long Videos (Part 2)"
+            },
+            {
+              "d": "",
+              "t": "Content Creation 10 — AI Long Videos (Part 3)"
+            },
+            {
+              "d": "",
+              "t": "Content Creation 11 — AI Long English Stories with Consistent Characters"
+            }
+          ],
+          "title": "AI Content Creation (Advanced)"
+        },
+        {
+          "modules": [
+            {
+              "d": "Breakdown of a real 803M-view video — and how to replicate the formula.",
+              "t": "How to Make an 803M Views Video"
+            },
+            {
+              "d": "",
+              "t": "How to Grow Faster Uploading Short Videos"
+            },
+            {
+              "d": "",
+              "t": "How to Make Viral Cat Short Clips"
+            },
+            {
+              "d": "",
+              "t": "How to Make English Long Videos (Part 1)"
+            },
+            {
+              "d": "",
+              "t": "How to Make English Long Videos (Part 2)"
+            },
+            {
+              "d": "The AI video niches trending right now — and exactly how these videos are created, step by step.",
+              "t": "Trending AI Videos Creation"
+            }
+          ],
+          "title": "AI Content Classes"
+        },
+        {
+          "modules": [
+            {
+              "d": "",
+              "t": "How to Boost Your TikTok Account"
+            },
+            {
+              "d": "",
+              "t": "Identity and Tax Verification Before Monetization"
+            }
+          ],
+          "title": "Monetization Setup"
+        },
+        {
+          "modules": [
+            {
+              "d": "",
+              "t": "How to Find Tags"
+            },
+            {
+              "d": "",
+              "t": "How to Check Viral Tags & Trends on TikTok"
+            },
+            {
+              "d": "",
+              "t": "Best Method to Upload Videos on TikTok"
+            },
+            {
+              "d": "",
+              "t": "Warmup, Best Titles & Hashtags, and Perfect Upload Time Guide"
+            }
+          ],
+          "title": "Upload Mastery"
+        },
+        {
+          "modules": [
+            {
+              "d": "",
+              "t": "How to Report an Account Freeze"
+            }
+          ],
+          "title": "Appeal"
+        },
+        {
+          "modules": [
+            {
+              "d": "",
+              "t": "How to Make Geography Videos Using AI"
+            },
+            {
+              "d": "",
+              "t": "Make a Complete Video in 1 Click with the Muse AI Agent"
+            },
+            {
+              "d": "",
+              "t": "Mobile or Laptop Same-Location Method with MoreLogin"
+            }
+          ],
+          "title": "Bonus Gifts"
+        },
+        {
+          "modules": [
+            {
+              "d": "Which niches work best for edited and repurposed content — and why they grow fast.",
+              "t": "Niche Selection for Copyright Content"
+            },
+            {
+              "d": "Where to find high-quality clips and material to work with.",
+              "t": "Finding Source Content"
+            },
+            {
+              "d": "The deep editing process — cuts, zooms, overlays, captions and audio work that transforms the footage.",
+              "t": "Heavy Editing Workflow"
+            },
+            {
+              "d": "Upload settings, timing and posting patterns that keep your account safe.",
+              "t": "Tricks to Upload Copyright Content"
+            },
+            {
+              "d": "How to read warnings early and keep your accounts alive long-term.",
+              "t": "Avoiding Strikes & Bans"
+            }
+          ],
+          "title": "Copyright Content System"
+        }
+      ],
+      "short": "TikTok automation ka mukammal course — account setup aur verification, VPN/proxy tools, viral niches mein AI content, upload mastery aur monetization.",
+      "slug": "tiktok-automation",
+      "tagline": "1 Mah ka Ultimate TikTok Automation Crash Course",
+      "image": "/images/course-tiktok2.png"
+    }
+  ]
+}

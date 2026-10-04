@@ -1,0 +1,10 @@
+# Saraiki Tech — serve index.html for clean page URLs (/courses, /prompts, ...)
+# ErrorDocument makes sure missing URLs show our own custom 404 page, never Hostinger's.
+ErrorDocument 404 /index.html
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^ index.html [L]
+</IfModule>
